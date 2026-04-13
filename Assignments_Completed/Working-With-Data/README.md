@@ -1,1 +1,1 @@
-All finished assignments for the first assignment goes here.
+All finished assignments for the first part goes here.
