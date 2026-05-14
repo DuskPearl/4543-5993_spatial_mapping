@@ -56,7 +56,7 @@ completed_assignments/
 │   │   │   └── ❌ mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       ├── 01-Lists_Dicts_and_Tuples/
-│   │       │   └── ❌ 01-Lists_Dicts_and_Tuples.ipynb
+│   │       │   └── ✅ 01-Lists_Dicts_and_Tuples.ipynb
 │   │       ├── 02-Pandas_Series_and_Dataframes/
 │   │       │   └── ❌ 02-Pandas_Series_and_Dataframes.ipynb
 │   │       ├── 03-Loading_and_Exploring_Eata/
@@ -211,10 +211,10 @@ completed_assignments/
 
 
 01-Python_Foundations
-    22/38  [███████████████░░░░░░░░░░░░░░░░░░░░░░░]
+    23/38  [█████████████████████░░░░░░░░░░░░░░░░░]
     Goal: complete 40–50% of notebooks
 
 01-Python_Foundations
     2/11  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
     Goal: Complete all 11 + include your working project
-  Total: 24/130 notebooks found
+  Total: 25/130 notebooks found
