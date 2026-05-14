@@ -36,21 +36,21 @@ completed_assignments/
 │   │   │   └── ✅ 02-mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       ├── 01-Magic_Commands/
-│   │       │   └── ❌ 01-magic_commands.ipynb
+│   │       │   └── ✅ 01-magic_commands.ipynb
 │   │       ├── 02-Markdown_and_Formatting/
-│   │       │   └── ❌ 02-Markdown_and_Formatting.ipynb
+│   │       │   └── ✅ 02-Markdown_and_Formatting.ipynb
 │   │       ├── 03-Work_With_Files/
-│   │       │   └── ❌ 03-Work_With_Files.ipynb
+│   │       │   └── ✅ 03-Work_With_Files.ipynb
 │   │       ├── 04-Data_Input_Output/
-│   │       │   └── ❌ 04-Data_Input_Output.ipynb
+│   │       │   └── ✅ 04-Data_Input_Output.ipynb
 │   │       ├── 05-Plotting_Basics/
-│   │       │   └── ❌ 05-Plotting_Basics.ipynb
+│   │       │   └── ✅ 05-Plotting_Basics.ipynb
 │   │       ├── 06-Jupyter_Shortcuts_and_Productivity/
-│   │       │   └── ❌ 06-Jupyter_Shortcuts_and_Productivity.ipynb
+│   │       │   └── ✅ 06-Jupyter_Shortcuts_and_Productivity.ipynb
 │   │       ├── 07-Using_Help_and_Docs/
-│   │       │   └── ❌ 07-Using_Help_and_Docs.ipynb
+│   │       │   └── ✅ 07-Using_Help_and_Docs.ipynb
 │   │       └── 08-Timing_and_Performance/
-│   │           └── ❌ 08-Timing_and_Performance.ipynb
+│   │           └── ✅ 08-Timing_and_Performance.ipynb
 │   ├── 05-Working_with_Data_Adv/
 │   │   ├── Assessments/
 │   │   │   └── ❌ mini_quiz.ipynb
@@ -88,11 +88,11 @@ completed_assignments/
 │           └── 05-Visualization_MiniLab/
 │               └── ❌ 05-Visualization_MiniLab.ipynb
 ├── 02-Missile_Geometry_101/
-│   ├── ❌ setup.ipynb
+│   ├── ✅ setup.ipynb
 │   └── _micro_lessons/
 │       ├── ❌ 00-Working_Directory.ipynb
 │       ├── ❌ 01-Data_Elsewhere.ipynb
-│       ├── ❌ 02-Viewing_Geojson.ipynb
+│       ├── ✅ 02-Viewing_Geojson.ipynb
 │       ├── ❌ 03-Style_W_Logic.ipynb
 │       ├── ❌ 04-Distance.ipynb
 │       ├── ❌ 05-Geo_and_Json_overview.ipynb
@@ -210,8 +210,11 @@ completed_assignments/
 
 
 
- 01-Python_Foundations
-    15/38  [███████████████░░░░░░░░░░░░░░░░░░░░░░░]
+01-Python_Foundations
+    22/38  [███████████████░░░░░░░░░░░░░░░░░░░░░░░]
     Goal: complete 40–50% of notebooks
 
-  Total: 15/130 notebooks found
+01-Python_Foundations
+    2/11  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
+    Goal: Complete all 11 + include your working project
+  Total: 24/130 notebooks found
